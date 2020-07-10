@@ -1,4 +1,4 @@
-Question#4
+#Question#4
 
 scc.coal <- SCC[grep("Fuel Comb.*Coal", SCC$EI.Sector),  ];
 scc.coal.list <- unique(scc.coal$SCC);
